@@ -12,4 +12,6 @@ Une console web interactive pour exécuter des commandes shell avec une interfac
 |---------|
 | ![](/docs/Screenshot_2020821-202416.png)
 
-Pour plus d'informations **cliquer sur** [npm](https://www.npmjs.com/package/metadidomi-console-web/)
+Pour plus d'informations **cliquer sur** [npm](https://www.npmjs.com/package/metadidomi-console-web/) ou
+```bash
+npm i metadidomi-console-web
