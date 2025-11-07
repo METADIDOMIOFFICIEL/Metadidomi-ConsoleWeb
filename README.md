@@ -8,7 +8,7 @@ Une console web interactive pour exécuter des commandes shell avec une interfac
 
 ## 📸 Aperçu 
 
-| Image 1 | 
+| Image | 
 |---------|
 | ![](/docs/Screenshot_2020821-202416.png)
 
