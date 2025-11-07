@@ -7,4 +7,4 @@ Une console web interactive pour exécuter des commandes shell avec une interfac
 |---------|
 | ![](/docs/Screenshot_20250821-202416.jpg)
 
-Pour plus d'informations [NPM]([https://nodejs.org/](https://www.npmjs.com/package/metadidomi-console-web))
+Pour plus d'informations **cliquer sur** [npm](https://www.npmjs.com/package/metadidomi-console-web/)
